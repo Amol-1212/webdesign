@@ -1,0 +1,95 @@
+*{
+	box-sizing:border-box;
+	font-family: 'Aguafina Script', cursive;
+	text-decoration:none;
+}
+.logo{
+	
+	text-align:auto;
+}
+.cname{
+	 
+	text-align:center;
+	height:187.75px;
+	font-size:60px;
+	background-color:#0198E1;
+	padding-top:45px;
+	color:white;
+	
+}
+.menu{
+	margin-top:10px;
+	border-style:solid;
+	height:50px;
+	text-align:center;
+	font-weight:bold;
+	padding-top:10px;
+	font-size:20px;
+	text-decoration:none;
+	background-color:#0198E1;
+	
+}
+
+
+.banner{
+	margin-top:10px;
+}	
+.section{
+	 
+	 margin-top: 10px;
+	text-align:center;
+	height:125px;
+	font-size:60px;
+	background-color:#0198E1;
+	padding-top:22px;
+	color:whitw;
+}
+.about{
+       font-size:15px;
+	   	padding-top:15px;
+	  
+}
+.service{
+	margin-top:20px;
+	box-shadow:0px 0px 8px 5px #CAC7C7;
+	padding:5px;
+	transition-property: transform;
+	transition-duration:3s;
+}
+.service:hover{
+	transform:scale(1.15);
+}
+.contact{
+	margin-top:10px;
+    text-align:left;
+}
+.form{
+	padding-top:8px;
+	
+	padding-left:60px;
+}
+.footer{
+	margin-top:15px;
+	text-align:left;
+	height:380px;
+	font-size:20px;
+	background-color:#0198E1;
+	padding-top:20px;
+	padding-left:40px;
+	color:black;
+	
+}
+.a{
+	text-align:center;
+}
+
+.phone{
+	position:fixed;
+	right:60px;
+	bottom:120px;
+}
+.whatsapp{
+	position:fixed;
+	right:60px;
+	bottom:40px;
+}
